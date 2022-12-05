@@ -1,0 +1,22 @@
+{
+  "name": "cache-strategies",
+  "version": "0.0.1",
+  "description": "Cache strategies for node.js",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "spec",
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": " tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
